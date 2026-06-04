@@ -1,0 +1,45 @@
+{
+  "name": "رِفْق - القرآن والذكر",
+  "short_name": "رِفْق",
+  "description": "تطبيق وموقع رِفْق للقرآن الكريم، التفسير الميسر، الأذكار، والاستماع بدون إنترنت.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#faf7f0",
+  "theme_color": "#3f5638",
+  "dir": "rtl",
+  "lang": "ar",
+  "categories": ["books", "education", "lifestyle", "religion"],
+  "icons": [
+    { "src": "/icon-72.png", "sizes": "72x72", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-96.png", "sizes": "96x96", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-144.png", "sizes": "144x144", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-384.png", "sizes": "384x384", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "المصحف",
+      "short_name": "القرآن",
+      "description": "افتح المصحف مباشرة",
+      "url": "/quran",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "الأذكار",
+      "short_name": "الأذكار",
+      "description": "افتح الأذكار مباشرة",
+      "url": "/azkar",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "الصوتيات",
+      "short_name": "التلاوة",
+      "description": "افتح مشغل التلاوة",
+      "url": "/audio",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    }
+  ]
+}

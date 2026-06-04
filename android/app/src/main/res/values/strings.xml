@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">رفق</string>
+    <string name="title_activity_main">رفق</string>
+    <string name="package_name">com.rifq.app</string>
+    <string name="custom_url_scheme">com.rifq.app</string>
+</resources>

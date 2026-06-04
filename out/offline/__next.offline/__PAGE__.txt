@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[9616,["/_next/static/chunks/0k68sgdzxe6e8.js","/_next/static/chunks/063f_5235lgpz.js","/_next/static/chunks/15l9.r46k6ds2.js","/_next/static/chunks/0on7zw9.whb.w.js"],"SiteHeader"]
+3:I[22016,["/_next/static/chunks/0k68sgdzxe6e8.js","/_next/static/chunks/063f_5235lgpz.js","/_next/static/chunks/15l9.r46k6ds2.js","/_next/static/chunks/0on7zw9.whb.w.js"],""]
+4:I[97367,["/_next/static/chunks/0k68sgdzxe6e8.js","/_next/static/chunks/063f_5235lgpz.js","/_next/static/chunks/15l9.r46k6ds2.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"rifq-page-shell mx-auto max-w-3xl px-4 py-12","children":["$","div",null,{"className":"qawra-card text-center","children":[["$","h1",null,{"className":"qawra-title","children":"أنت غير متصل بالإنترنت"}],["$","p",null,{"className":"mt-4 leading-8 text-slate-600 dark:text-slate-300","children":"افتح الصفحة الرئيسية أو المحتوى الذي تم تحميله مسبقًا."}],["$","$L3",null,{"href":"/","className":"mt-6 inline-block rounded-2xl bg-emerald-700 px-6 py-3 font-black text-white","children":"الرجوع للرئيسية"}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/0on7zw9.whb.w.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3_6M-ZjjzR9x5dy62wDg0"}
+6:null
